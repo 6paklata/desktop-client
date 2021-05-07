@@ -53,7 +53,7 @@
     "scryptsy": "^2.0.0",
     "sjcl": "^1.0.7",
     "stellar-sdk": "^0.8.2",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "uuid": "^3.3.2",
     "zxcvbn": "^4.4.2"
   },
